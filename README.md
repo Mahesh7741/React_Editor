@@ -4,6 +4,12 @@
 
 React Playground is an interactive web-based code editor that allows developers to write, test, and preview React code in real-time. It offers a user-friendly environment where users can edit code, explore file structures, and view the results instantly.
 
+# Demo Video 
+
+
+# Screenshot 
+![image](https://github.com/user-attachments/assets/46ab1629-1259-48b6-a26c-acad62f972f5)
+
 ### Main Features:
 - **Live Preview**: See the React code results in real-time.
 - **File Explorer**: Manage and switch between multiple files.
