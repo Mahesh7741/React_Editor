@@ -62,7 +62,7 @@ Ensure you have the following installed:
    
    Clone the project repository to your local machine using Git:
    ```bash
-   git clone https://github.com/your-username/react-playground.git
+   git clone https://github.com/Mahesh7741/react-playground.git
 # Installation Instructions
 
 Follow the steps below to set up and run the project locally:
@@ -79,7 +79,7 @@ Ensure you have the following installed:
    
    Clone the project repository to your local machine using Git:
    ```bash
-   git clone https://github.com/your-username/react-playground.git
+   git clone https://github.com/Mahesh7741/react-playground.git
 
 2. **Navigate to the Project Directory**
    
@@ -140,7 +140,7 @@ To contribute code to the project, please follow these steps:
 1. **Fork the repository**: Click on the "Fork" button at the top of the repository page.
 2. **Clone the forked repository** to your local machine:
    ```bash
-   git clone https://github.com/your-username/playcode-react-editor.git
+   git clone https://github.com/Mahesh7741/playcode-react-editor.git
 
 # Known Issues
 
